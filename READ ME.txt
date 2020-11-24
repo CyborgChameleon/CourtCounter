@@ -1,0 +1,7 @@
+create a new android app but this time put
+
+name:
+CourtCounter
+
+package name:
+com.udacityandroidtutorial.courtcounter
